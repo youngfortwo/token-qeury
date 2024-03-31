@@ -1,0 +1,25 @@
+{
+  "name": "token-query",
+  "version": "1.0.2",
+  "description": "query token address",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngfortwo/token-query.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "yxy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngfortwo/token-query/issues"
+  },
+  "homepage": "https://github.com/youngfortwo/token-query#readme",
+  "dependencies": {
+    "tea-datetime-generator":"^1.0.1"
+  }
+}
